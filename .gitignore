@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+artifacts/rosenbrock_traces.json
+assets/figures/*.png
+assets/figures/*.pdf

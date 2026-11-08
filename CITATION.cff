@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this engineering workflow collection, please cite the repository and the primary textbook separately."
+title: "Optimization Engineering: Reproducible Numerical Optimization Workflows"
+type: software
+authors:
+  - family-names: "Ayrıbaş"
+    given-names: "Batuhan"
+repository-code: "https://github.com/rootcastleco/Optimization-Engineering"
+date-released: "2026-11-08"
+keywords:
+  - numerical optimization
+  - engineering design
+  - reproducibility
+  - convex programming
+  - Bayesian optimization
+  - scientific figures
