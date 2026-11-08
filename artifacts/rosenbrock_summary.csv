@@ -1,0 +1,4 @@
+method,evaluation_budget,n_evaluations,best_f,best_x,status
+BFGS,450,123,2.00559e-11,"[0.999996, 0.999991]",solver_converged
+Powell,450,450,0.120802,"[0.657608, 0.426474]",solver_stopped
+Nelder-Mead,450,219,1.09909e-18,"[1.0, 1.0]",solver_converged

@@ -1,0 +1,28 @@
+name: numerical-smoke-tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  numerical:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Fetch source
+        uses: actions/checkout@v4
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install numerical dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Run numerical tests
+        run: python -m unittest discover -s tests -v
+      - name: Independent gradient audit
+        run: python scripts/audit_gradient.py
+      - name: Run reference experiment
+        run: python scripts/run_benchmarks.py --budget 450 --out-dir artifacts
+      - name: Generate scientific figures
+        run: python scripts/generate_figures.py --input artifacts/rosenbrock_traces.json --output assets/figures
