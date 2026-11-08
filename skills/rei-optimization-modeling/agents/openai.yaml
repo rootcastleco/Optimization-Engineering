@@ -1,0 +1,4 @@
+interface:
+  display_name: "Optimization Problem Formulation"
+  short_description: "Decision variables, objective functions, scaling and formal feasible-set design"
+  brand_color: "#0E3D8A"

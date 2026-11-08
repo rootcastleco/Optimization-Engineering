@@ -1,0 +1,4 @@
+interface:
+  display_name: "Linear, Quadratic and Convex Optimization"
+  short_description: "LP, convex QP, least squares, nonnegative least squares and disciplined convex programming"
+  brand_color: "#0E3D8A"

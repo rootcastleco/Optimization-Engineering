@@ -1,0 +1,4 @@
+interface:
+  display_name: "Smooth Local Optimization"
+  short_description: "Bracketing, line search, gradient descent, quasi-Newton, Newton and Levenberg–Marquardt meth"
+  brand_color: "#0E3D8A"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Robust Optimization and Uncertainty Propagation"
+  short_description: "Set-based uncertainty, chance constraints, Monte Carlo, Taylor approximations and polynomial"
+  brand_color: "#0E3D8A"

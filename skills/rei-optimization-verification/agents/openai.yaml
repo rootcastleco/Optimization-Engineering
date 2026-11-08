@@ -1,0 +1,4 @@
+interface:
+  display_name: "Optimization Verification and Release Assurance"
+  short_description: "Benchmarks, feasibility audits, regression gates, derivative tests and release evidence"
+  brand_color: "#0E3D8A"

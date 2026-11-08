@@ -1,0 +1,4 @@
+interface:
+  display_name: "Surrogate and Bayesian Optimization"
+  short_description: "Sampling plans, surrogate regression, Gaussian processes, acquisition and safe exploration"
+  brand_color: "#0E3D8A"

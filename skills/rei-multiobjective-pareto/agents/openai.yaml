@@ -1,0 +1,4 @@
+interface:
+  display_name: "Multiobjective and Pareto Optimization"
+  short_description: "Pareto dominance, scalarization, epsilon constraints, multiobjective search and preference e"
+  brand_color: "#0E3D8A"

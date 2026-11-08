@@ -1,0 +1,4 @@
+interface:
+  display_name: "Constrained and Dual Optimization"
+  short_description: "Constraint transformations, KKT, penalty/barrier approaches, primal–dual updates and ADMM"
+  brand_color: "#0E3D8A"

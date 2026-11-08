@@ -1,0 +1,4 @@
+interface:
+  display_name: "Discrete Optimization"
+  short_description: "Integer programming, cutting planes, branch and bound, dynamic programming and combinatorial"
+  brand_color: "#0E3D8A"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Expression Evolution"
+  short_description: "Typed grammars, genetic programming and symbolic expression search"
+  brand_color: "#0E3D8A"

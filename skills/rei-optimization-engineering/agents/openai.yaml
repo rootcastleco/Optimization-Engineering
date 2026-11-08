@@ -1,0 +1,4 @@
+interface:
+  display_name: "Optimization Engineering"
+  short_description: "Cross-domain engineering optimization; model formulation, algorithm selection, numerical QA "
+  brand_color: "#0E3D8A"

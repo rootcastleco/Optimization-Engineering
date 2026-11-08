@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gradient and Hessian Verification"
+  short_description: "Analytic, finite-difference, complex-step and automatic differentiation audits"
+  brand_color: "#0E3D8A"

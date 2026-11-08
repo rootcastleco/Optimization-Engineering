@@ -1,0 +1,4 @@
+interface:
+  display_name: "Black-Box Optimization"
+  short_description: "Derivative-free, stochastic and population methods for noisy and multimodal objectives"
+  brand_color: "#0E3D8A"
