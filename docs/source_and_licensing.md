@@ -25,3 +25,9 @@ This repository has not been peer reviewed or independently certified for indust
 ## Provenance
 
 Reference PDF SHA-256 (as calculated for the source uploaded in the preparation workflow): `874e643064b827597a7fd872144df91ebc68092fb68121f828b7f71a18799bd4`. This checksum is supplied for source-version identification; the PDF itself is not distributed.
+
+## Associated research publication (separate deposited work)
+
+Batuhan Ayrıbaş (2026), *Optimization Engineering: A Traceable Research-Software Workflow for Reproducible Numerical Optimization*, Zenodo version 1, https://doi.org/10.5281/zenodo.24046577.
+
+The Zenodo deposit describes the paper as CC BY 4.0 and offers the research PDF separately from the GitHub source distribution. The original repository MIT license applies to the independently authored software and documentation in this repository, not automatically to the Zenodo paper or to the third-party optimization textbook. Zenodo currently classifies this record's resource type as "Standard"; it must not be represented as a peer-reviewed journal article without independent evidence. The paper itself is linked rather than mirrored in this GitHub source tree.

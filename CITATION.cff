@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this engineering workflow collection, please cite the repository and the primary textbook separately."
+message: "Cite this software repository and, when using the accompanying research paper, cite the Zenodo publication DOI separately."
 title: "Optimization Engineering: Reproducible Numerical Optimization Workflows"
 type: software
 authors:
@@ -14,3 +14,17 @@ keywords:
   - convex programming
   - Bayesian optimization
   - scientific figures
+
+references:
+  - type: generic
+    title: "Optimization Engineering: A Traceable Research-Software Workflow for Reproducible Numerical Optimization"
+    authors:
+      - family-names: "Ayrıbaş"
+        given-names: "Batuhan"
+        orcid: "https://orcid.org/0009-0009-2807-3264"
+    year: 2026
+    doi: "10.5281/zenodo.24046577"
+    url: "https://zenodo.org/records/24046577"
+    publisher:
+      name: "Zenodo"
+    notes: "Research publication deposited in Zenodo (v1). This DOI identifies the publication, not the source repository."

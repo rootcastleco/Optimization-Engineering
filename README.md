@@ -20,6 +20,18 @@ The framework explicitly distinguishes *numerical convergence*, *mathematical op
 
 > **Scope:** engineering methodology and reference experiments. Not an independently peer-reviewed algorithm paper, not a validated industrial controller, and not a claim of compliance with any external safety standard.
 
+## Associated research publication
+
+[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24046577.svg)](https://doi.org/10.5281/zenodo.24046577)
+
+**Batuhan Ayrıbaş (2026).** *Optimization Engineering: A Traceable Research-Software Workflow for Reproducible Numerical Optimization*. Zenodo, version 1. **DOI:** [10.5281/zenodo.24046577](https://doi.org/10.5281/zenodo.24046577).
+
+The publication documents the rationale and evidence-gated research-software workflow underpinning this repository. Its reported experiments are single-problem numerical smoke tests, not statistical evidence of universal method superiority or a certified industrial-safety case. The Zenodo record specifies a **CC BY 4.0** license for the deposited work and categorizes the resource as a **Standard**; the repository does not claim peer-reviewed journal publication.
+
+**Read the [publication and DOI](https://zenodo.org/records/24046577)** · **[View the deposited PDF](https://zenodo.org/records/24046577/files/Optimization_Engineering_Research_Paper_2026.pdf?download=1)** · **[BibTeX citation](CITATION.bib)** · **[Provenance and independent rights](docs/zenodo_publication.md)**.
+
+For citation, distinguish the archived research publication (DOI above) from the separately versioned software repository. The concept DOI [10.5281/zenodo.24046576](https://doi.org/10.5281/zenodo.24046576) resolves to the latest version of the Zenodo publication.
+
 ## The problem formulation
 
 For decision vector **x**, observed parameters **θ**, objective **f**, and feasible domain **X**, a basic constrained problem is:
