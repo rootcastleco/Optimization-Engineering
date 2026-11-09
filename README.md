@@ -124,3 +124,9 @@ The conceptual reference is **Mykel J. Kochenderfer and Tim A. Wheeler, *Algorit
 See [source, citations and license boundaries](docs/source_and_licensing.md). For publication citation metadata see [CITATION.cff](CITATION.cff).
 
 **Maintained by [Rootcastle Engineering & Innovation](https://rootcastle.com).**
+
+## Rootcastle project guide
+
+[Project overview and practical workflow](https://rootcastle.com/en/projects/optimization-engineering/) · [Engineering walkthrough](https://rootcastle.com/en/engineering-notes/reproducible-numerical-optimization/)
+
+The repository remains the reference for current setup, supported features and licensing. The project guide explains the workflow and its verification boundaries.
